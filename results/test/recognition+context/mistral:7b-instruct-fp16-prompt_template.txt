@@ -1,0 +1,5 @@
+Is the Bavarian term 'term_bar' an exact dialectal variant ('yes'), a dialectal morphological inflection ('inflected'), or not a dialectal variant ('no') of 'term_de' in Standard German? 
+
+Usage example: "####" 
+
+Return only "yes", "inflected", or "no".

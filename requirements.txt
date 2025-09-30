@@ -1,0 +1,14 @@
+nltk
+spacy
+openai
+openpyxl
+spacy
+ratelimiter
+tqdm
+tabulate
+numpy
+matplotlib
+seaborn
+tabulate
+jiwer
+scikit-learn

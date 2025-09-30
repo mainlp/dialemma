@@ -1,0 +1,8 @@
+Classify the Bavarian term 'term_bar' with respect to the Standard German term 'term_de'. 
+
+Usage example: "####"
+
+Return exactly one of the following:
+- 'yes' if it is an exact dialectal variant
+- 'inflected' if it is a morphologically inflected variant
+- 'no' otherwise

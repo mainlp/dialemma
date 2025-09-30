@@ -1,0 +1,5 @@
+Compare 'term_bar' (Bavarian) to 'term_de' (Standard German).
+
+Usage example: "####"
+
+Answer with 'yes' if it's a direct dialectal translation, 'inflected' if it's a dialectal inflected form, or 'no' if neither applies. Do not say any other word.

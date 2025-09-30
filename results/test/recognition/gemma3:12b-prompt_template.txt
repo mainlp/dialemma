@@ -1,0 +1,5 @@
+Is the Bavarian term 'term_bar':
+- a dialectal translation of the German term 'term_de' → 'yes'
+- an inflection of the German term 'term_de' → 'inflected'
+- not a variant or inflected variant of the German term 'term_de' → 'no'
+Answer only with 'yes', 'inflected', or 'no'.

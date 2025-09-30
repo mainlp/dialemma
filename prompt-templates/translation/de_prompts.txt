@@ -1,0 +1,42 @@
+Übersetze 'term_bar' vom bairischen ins Deutsche.
+# 0
+Übersetze 'term_bar' vom bairischen ins Deutsche. Gib kein weiteres Wort aus.
+# 1
+Wie lautet die deutsche Übersetzung des bairischen Begriffs 'term_bar'?
+# 2 
+Wie lautet die deutsche Übersetzung des bairischen Begriffs 'term_bar'? Gib nur das übersetzte Wort aus.
+# 3
+Wie lautet die deutsche Übersetzung des Wortes 'term_bar'?
+# 4
+Wie lautet die deutsche Übersetzung des Wortes 'term_bar'? Gib nur das übersetzte Wort aus.
+# 5
+Übersetze das folgende Wort ins Deutsche: 'term_bar'.
+# 6
+Übersetze das folgende Wort ins Deutsche 'term_bar'. Gib nur das übersetzte Wort aus.
+# 7 
+Dies ist ein bairischer Begriff: 'term_bar'. Geben Sie nur das normalisierte Wort im Standarddeutschen zurück.
+# 8
+Übersetze den bairischen Begriff: 'term_bar' ins Hochdeutsche.
+# 9
+Übersetze den bairischen Begriff: 'term_bar' ins Hochdeutsche. Gib nur die hochdeutsche Form zurück.
+# 10
+Übersetze den bairischen Begriff 'term_bar' ins Hochdeutsche.
+# 11
+Übersetze den bairischen Begriff 'term_bar' ins Hochdeutsche. Gib nur die hochdeutsche Form zurück.
+# 12
+Übersetze den bairischen Begriff: 'term_bar' ins Hochdeutsche.
+# 13
+Übersetze den bairischen Begriff: 'term_bar' ins Hochdeutsche. Geben Sie nur die hochdeutsche Form zurück.
+# 14
+Dies ist ein bayerischer Begriff: 'term_bar'. Gib nur die normalisierte hochdeutsche Entsprechung zurück. Antworte mit genau einem einzigen Wort.
+# 15
+Übersetze das Wort 'term_bar' vom Bayerischen ins Deutsche. 
+# 16
+Übersetze das Wort 'term_bar' vom Bayerischen ins Deutsche. Gib kein weiteres Wort aus.
+# 17
+Wie lautet das bairische Wort 'term_bar' auf Deutsch?
+# 18
+Wie lautet das bairische Wort 'term_bar' auf Deutsch? Antworte nur mit der Übersetzung.
+# 19
+Übersetzung durchführen: konvertiere die bayerische Form 'term_bar' in das hochdeutsche Äquivalent. Gib nur die hochdeutsche Form zurück, ohne weitere Erklärungen oder Formatierungen.
+# 20

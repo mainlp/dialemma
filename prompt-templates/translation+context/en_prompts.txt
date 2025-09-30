@@ -1,0 +1,44 @@
+Translate 'term_bar' from Bavarian to German.
+# 0
+Translate 'term_bar' from Bavarian to German. Do not say any other word.
+# 1
+What is the German translation of the Bavarian term 'term_bar'?
+# 2
+What is the German translation of the Bavarian term 'term_bar'? Only output the translated word.
+# 3
+What is the translation of the word 'term_bar' into German?
+# 4
+What is the translation of the word 'term_bar' into German? Only output the translated word. 
+# 5
+Translate the following word to German 'term_bar'. Usage example: "####".
+# 6
+Translate the following word to German 'term_bar'. Usage example: "####". Do not say any other word. 
+# 7
+This is a Bavarian term: 'term_bar'. Only return the normalized Standard German word.
+# 8
+Translate the Bavarian term: 'term_bar' into High German form. 
+# 9
+Translate the Bavarian term: 'term_bar' into High German form. Only return the High German form.
+# 10
+Translate the Bavarian term 'term_bar' into High German form. 
+# 11
+Translate the Bavarian term 'term_bar' into High German form. Usage example: "####".  Only return the High German form.
+# 12
+Translate the Bavarian term: 'term_bar' into Standard German form. 
+# 13
+Translate the Bavarian term: 'term_bar' into Standard German form. Only return the Standard German form.
+# 14
+This is a Bavarian term: 'term_bar'. Only return the normalized Standard German equivalent. Respond with exactly one single word. 
+# 15
+Translate the word 'term_bar' from Bavarian to German. 
+# 16
+Translate the word 'term_bar' from Bavarian to German. Do not say any other word.
+# 17
+How do you say the Bavarian word 'term_bar' in German? 
+# 18
+How do you say the Bavarian word 'term_bar' in German?  Answer only with the translation. 
+# 10
+Perform translation: convert the Bavarian form 'term_bar' into its Standard German equivalent.  Usage example: "####". Return only the Standard German form, with no additional explanation or formatting.
+# 20
+Perform translation: convert the Bavarian form 'term_bar' into its Standard German equivalent.
+# 21

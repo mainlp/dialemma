@@ -1,0 +1,6 @@
+Task: Is the Bavarian term: "term_bar" a correct dialectal variant of the German term: "term_de"? Follow the given annotation guidelines.
+Guidelines:
+- yes: The candidate is an exact dialectal variation of the Standard German word.
+- inflected: The candidate is a morphologically inflected variant of the German word.
+- no: None of the two applies.
+Return only "yes", "inflected", or "no".

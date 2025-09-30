@@ -1,0 +1,5 @@
+Compare the Bavarian word 'term_bar' against the Standard German 'term_de'.
+Select only one label:
+- 'yes' for dialectal variant
+- 'inflected' for inflectional variant
+- 'no' otherwise

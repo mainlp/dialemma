@@ -1,0 +1,1 @@
+Übersetzung durchführen: konvertiere die bayerische Form 'term_bar' in das hochdeutsche Äquivalent. Gib nur die hochdeutsche Form zurück, ohne weitere Erklärungen oder Formatierungen.

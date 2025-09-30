@@ -1,0 +1,4 @@
+Klassifiziere den bairischen Begriff 'term_bar' im Verhältnis zum hochdeutschen Begriff 'term_de'. Gib genau eines der folgenden Labels zurück:
+- 'yes', wenn es eine exakte dialektale Variante ist
+- 'inflected', wenn es eine morphologisch gebeugte Form ist
+- 'no', andernfalls

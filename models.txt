@@ -1,0 +1,9 @@
+mistral:7b-instruct-fp16
+mistral-large-instruct
+llama3.1:8b-instruct-fp16
+llama3.3:70b-instruct-fp16
+llama4:scout
+aya-expanse:8b
+aya-expanse:32b-fp16
+gemma3:12b
+gemma3:27b

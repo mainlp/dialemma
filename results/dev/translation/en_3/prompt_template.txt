@@ -1,0 +1,1 @@
+What is the German translation of the Bavarian term 'term_bar'? Only output the translated word.

@@ -1,0 +1,5 @@
+Categorize the Bavarian term 'term_bar' with respect to the German term 'term_de':
+- 'yes' = dialectal variant
+- 'inflected' = morphologically related
+- 'no' = otherwise
+Return only one label.

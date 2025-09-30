@@ -1,0 +1,1 @@
+Evaluate the relationship between 'term_bar' (Bavarian) and 'term_de' (Standard German). Respond with 'yes' for a dialectal match, 'inflected' for a dialectal inflectional variant, and 'no' if neither. Do not say any other word.

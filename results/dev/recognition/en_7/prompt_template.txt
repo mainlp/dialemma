@@ -1,0 +1,4 @@
+Task: Label the relationship between term_bar (Bavarian) and term_de (German) using these rules:
+- 'yes': direct dialectal equivalent
+- 'inflected': same lemma, different form
+- 'no': if neither applies

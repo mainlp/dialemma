@@ -1,0 +1,80 @@
+Classify the Bavarian term 'term_bar' in relation to the Standard German term 'term_de'. Return 'yes' if it is an exact dialectal translation, 'inflected' if it is an inflected dialectal translation of it, or 'no' if neither applies. Do not say any other word.
+# 0
+Evaluate the relationship between 'term_bar' (Bavarian) and 'term_de' (Standard German). Respond with 'yes' for a dialectal match, 'inflected' for a dialectal inflectional variant, and 'no' if neither. Do not say any other word.
+# 1
+Is the Bavarian term 'term_bar' an exact dialectal variant ('yes'), a dialectal morphological inflection ('inflected'), or not a dialectal variant ('no') of 'term_de' in Standard German? 
+
+Usage example: "####" 
+
+Return only "yes", "inflected", or "no".
+# 2
+Compare 'term_bar' (Bavarian) to 'term_de' (Standard German).
+
+Usage example: "####"
+
+Answer with 'yes' if it's a direct dialectal translation, 'inflected' if it's a dialectal inflected form, or 'no' if neither applies. Do not say any other word.
+# 3
+Categorize the Bavarian term 'term_bar' with respect to the German term 'term_de':
+- 'yes' = dialectal variant
+- 'inflected' = morphologically related
+- 'no' = otherwise
+Return only one label.
+# 4
+Task: Is the Bavarian term: "term_bar" a correct dialectal variant of the German term: "term_de"? 
+
+Usage example: "####"
+
+Follow the given annotation guidelines.
+Guidelines:
+- yes: The candidate is an exact dialectal variation of the Standard German word.
+- inflected: The candidate is a morphologically inflected variant of the German word.
+- no: None of the two applies.
+Return only "yes", "inflected", or "no".
+# 5
+Classify the Bavarian term 'term_bar' with respect to the Standard German term 'term_de'. 
+
+Usage example: "####"
+
+Return exactly one of the following:
+- 'yes' if it is an exact dialectal variant
+- 'inflected' if it is a morphologically inflected variant
+- 'no' otherwise
+# 6
+Task: Label the relationship between term_bar (Bavarian) and term_de (German) using these rules:
+- 'yes': direct dialectal equivalent
+- 'inflected': same lemma, different form
+- 'no': if neither applies
+# 7
+Is the Bavarian term 'term_bar':
+- a dialectal translation of the German term 'term_de' → 'yes'
+- an inflection of the German term 'term_de' → 'inflected'
+- not a variant or inflected variant of the German term 'term_de' → 'no'
+
+Usage example: "####"
+
+Answer only with 'yes', 'inflected', or 'no'.
+# 8
+Compare the Bavarian word 'term_bar' against the Standard German 'term_de'.
+Select only one label:
+- 'yes' for dialectal variant
+- 'inflected' for inflectional variant
+- 'no' otherwise
+# 9
+Task: Is the Bavarian term: "term_bar" a correct dialectal variant of the German term: "term_de"? Follow the given annotation guidelines.
+Guidelines:
+- yes: The candidate is an exact dialectal variant of the Standard German word.
+- inflected: The candidate is an inflected dialectal variant of the German word.
+- no: None of the two applies.
+Return only "yes", "inflected", or "no".
+# 10 (5.b)
+Is the Bavarian term 'term_bar':
+- a dialectal translation of the German term 'term_de' → 'yes'
+- an inflected dialectal translation of the German term 'term_de' → 'inflected'
+- not an (inflected or uninflected) dialectal translation of the German term 'term_de' → 'no'
+Answer only with 'yes', 'inflected', or 'no'.
+# 11 (8.b)
+Classify the Bavarian term 'term_bar' with respect to the Standard German term 'term_de'. Return exactly one of the following:
+- 'yes' if it is an exact dialectal variant
+- 'inflected' if it is a morphologically inflected dialectal variant
+- 'no' otherwise
+# 12 (6.b)

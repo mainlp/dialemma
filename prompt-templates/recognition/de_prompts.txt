@@ -1,0 +1,43 @@
+Klassifiziere den bairischen Begriff 'term_bar' in Bezug auf den hochdeutschen Begriff 'term_de'. Gib 'yes' zurück, wenn es sich um eine exakte dialektale Übersetzung handelt, 'inflected', wenn es eine morphologische Beugung ist, oder 'no', wenn keines von beiden zutrifft.
+# 0
+Bewerte die Beziehung zwischen 'term_bar' (Bairisch) und 'term_de' (Hochdeutsch). Gib 'yes' zurück bei dialektaler Entsprechung, 'inflected' bei Flexionsform und 'no', wenn keine Beziehung besteht.
+# 1
+Ist der bairische Begriff 'term_bar' eine exakte dialektale Variante ('yes'), eine morphologische Beugung ('inflected') oder keine Dialektvariante ('no') von 'term_de' im Hochdeutschen?
+# 2
+Vergleiche 'term_bar' (bairisch) mit 'term_de' (hochdeutsch). Antworten mit 'yes', wenn es sich um eine direkte dialektale Übersetzung handelt, mit 'inflected', wenn es eine gebeugte Form handelt, oder mit 'no', wenn beides nicht zutrifft.
+# 3
+Klassifiziere den bairischen Begriff 'term_bar' im Verhältnis zum deutschen Begriff 'term_de':
+- 'yes' = dialektale Variante
+- 'inflected' = morphologisch verwandt
+- 'no' = andernfalls
+Gib nur eines dieser Labels zurück.
+# 4
+Aufgabe: Ist der bairische Begriff "term_bar" eine korrekte dialektale Variante des hochdeutschen Begriffs "term_de"? Befolge die untenstehenden Annotationsrichtlinien.
+Richtlinien:
+- yes: Der Begriff ist eine exakte dialektale Entsprechung.
+- inflected: Der Begriff ist eine morphologisch gebeugte Variante.
+- no: Keines von beiden trifft zu.
+Gib nur "yes", "inflected" oder "no" zurück.
+# 5
+Klassifiziere den bairischen Begriff 'term_bar' im Verhältnis zum hochdeutschen Begriff 'term_de'. Gib genau eines der folgenden Labels zurück:
+- 'yes', wenn es eine exakte dialektale Variante ist
+- 'inflected', wenn es eine morphologisch gebeugte Form ist
+- 'no', andernfalls
+# 6
+Aufgabe: Vergib ein Label für die Beziehung zwischen 'term_bar' (bairisch) und 'term_de' (deutsch) gemäß folgender Regeln:
+- 'yes': direkte dialektale Entsprechung
+- 'inflected': gleiche Grundform, andere grammatische Form
+- 'no': wenn beides nicht zutrifft
+# 7
+Ist der bairische Begriff 'term_bar':
+- eine Dialektübersetzung des deutschen Begriffs 'term_de' → 'yes'
+- eine Beugungsform des Deutschen Begriffs 'term_de' → 'inflected'
+- keine Variante oder flektierte Variante des deutschen Begriffs 'term_de' → 'no'
+Antworte nur mit 'yes', 'inflected', oder 'no'.
+# 8
+Vergleiche den bairischen Begriff 'term_bar' mit dem hochdeutschen 'term_de'.
+Wähle genau eines der folgenden Labels:
+- 'yes' für dialektale Variante
+- 'inflected' für flektierte Variante
+- 'no' andernfalls
+# 9

@@ -1,0 +1,1 @@
+Classify the Bavarian term 'term_bar' in relation to the Standard German term 'term_de'. Return 'yes' if it is an exact dialectal translation, 'inflected' if it is an inflected dialectal translation of it, or 'no' if neither applies. Do not say any other word.

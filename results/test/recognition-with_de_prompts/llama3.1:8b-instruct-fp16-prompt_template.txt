@@ -1,0 +1,6 @@
+Aufgabe: Ist der bairische Begriff "term_bar" eine korrekte dialektale Variante des hochdeutschen Begriffs "term_de"? Befolge die untenstehenden Annotationsrichtlinien.
+Richtlinien:
+- yes: Der Begriff ist eine exakte dialektale Entsprechung.
+- inflected: Der Begriff ist eine morphologisch gebeugte Variante.
+- no: Keines von beiden trifft zu.
+Gib nur "yes", "inflected" oder "no" zurück.

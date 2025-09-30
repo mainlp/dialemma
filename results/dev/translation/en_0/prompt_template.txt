@@ -1,0 +1,1 @@
+Translate 'term_bar' from Bavarian to German.

@@ -1,0 +1,1 @@
+This is a Bavarian term: 'term_bar'. Only return the normalized Standard German equivalent. Respond with exactly one single word.

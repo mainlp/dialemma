@@ -1,0 +1,1 @@
+Translate the Bavarian term: 'term_bar' into Standard German form. Only return the Standard German form.

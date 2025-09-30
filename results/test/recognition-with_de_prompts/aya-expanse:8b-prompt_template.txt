@@ -1,0 +1,1 @@
+Vergleiche 'term_bar' (bairisch) mit 'term_de' (hochdeutsch). Antworten mit 'yes', wenn es sich um eine direkte dialektale Übersetzung handelt, mit 'inflected', wenn es eine gebeugte Form handelt, oder mit 'no', wenn beides nicht zutrifft.

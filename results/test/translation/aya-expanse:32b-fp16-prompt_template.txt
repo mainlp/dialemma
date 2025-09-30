@@ -1,0 +1,1 @@
+Perform translation: convert the Bavarian form 'term_bar' into its Standard German equivalent. Return only the Standard German form, with no additional explanation or formatting.

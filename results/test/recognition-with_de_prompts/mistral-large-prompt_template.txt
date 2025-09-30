@@ -1,0 +1,5 @@
+Ist der bairische Begriff 'term_bar':
+- eine Dialektübersetzung des deutschen Begriffs 'term_de' → 'yes'
+- eine Beugungsform des Deutschen Begriffs 'term_de' → 'inflected'
+- keine Variante oder flektierte Variante des deutschen Begriffs 'term_de' → 'no'
+Antworte nur mit 'yes', 'inflected', oder 'no'.
