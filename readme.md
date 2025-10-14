@@ -74,6 +74,7 @@ Create a python environment and install the required packages:
 conda create --name dvar python=3.10
 conda activate dvar
 pip install -r requirements.txt
+python -m spacy download de_core_news_lg
 ```
 
 ### 2. Annotations
