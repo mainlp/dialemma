@@ -12,3 +12,4 @@ seaborn
 tabulate
 jiwer
 scikit-learn
+levenshtein
